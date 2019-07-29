@@ -8,5 +8,15 @@
     "month": "February",
     "submissionDeadline": "",
     "country": "AU"
+  },
+  {
+    "title": "Ng Atlanta",
+    "url": "https://ng-atl.org/",
+    "where": "Atlanta, GA",
+    "dateFrom": "02-17",
+    "dateTo": "02-21",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
