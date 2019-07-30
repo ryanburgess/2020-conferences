@@ -18,5 +18,15 @@
     "month": "February",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Southern Dev",
+    "url": "https://southerndev.co/",
+    "where": "Augusta, GA",
+    "dateFrom": "04-25",
+    "dateTo": "04-25",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
