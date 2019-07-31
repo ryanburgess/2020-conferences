@@ -10,7 +10,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 | Conference | Date | Where |
 |------------|------|-------|
-| [Halfstack](https://www.renderatl.com/) | 17 - 17 January, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Phoenix, AZ |
+| [Halfstack](https://halfstackconf.com/phoenix/) | 17 - 17 January, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Phoenix, AZ |
 | [Ng Atlanta](https://ng-atl.org/) | 17 - 21 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
 | [Node Atlanta](https://node-atl.org/) | 17 - 21 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
 | [ReactConf AU](https://reactconfau.com/) | 27 - 28 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/au.svg" height="16" alt="AU" /> Australia, Australia |
