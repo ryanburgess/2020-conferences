@@ -13,6 +13,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Ng Atlanta](https://ng-atl.org/) | 17 - 21 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
 | [ReactConf AU](https://reactconfau.com/) | 27 - 28 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/au.svg" height="16" alt="AU" /> Australia, Australia |
 | [Southern Dev](https://southerndev.co/) | 25 - 25 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Augusta, GA |
+| [Render ATL](https://www.renderatl.com/) | 4 - 6 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
 
 ## Contributing
 1. Fork it
