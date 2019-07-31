@@ -20,6 +20,16 @@
     "country": "USA"
   },
   {
+    "title": "Node Atlanta",
+    "url": "https://node-atl.org/",
+    "where": "Atlanta, GA",
+    "dateFrom": "02-17",
+    "dateTo": "02-21",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "Southern Dev",
     "url": "https://southerndev.co/",
     "where": "Augusta, GA",
@@ -38,5 +48,35 @@
     "month": "May",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Halfstack",
+    "url": "https://www.renderatl.com/",
+    "where": "Phoenix, AZ",
+    "dateFrom": "01-17",
+    "dateTo": "01-17",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "VueConf US",
+    "url": "http://vueconf.us/",
+    "where": "Austin, TX",
+    "dateFrom": "03-03",
+    "dateTo": "03-04",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "React Finland",
+    "url": "https://react-finland.fi/",
+    "where": "Helsinki, Finland",
+    "dateFrom": "05-03",
+    "dateTo": "05-04",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "FI"
   }
 ]
