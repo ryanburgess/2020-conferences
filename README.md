@@ -15,6 +15,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Node Atlanta](https://node-atl.org/) | 17 - 21 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
 | [ReactConf AU](https://reactconfau.com/) | 27 - 28 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/au.svg" height="16" alt="AU" /> Australia, Australia |
 | [VueConf US](http://vueconf.us/) | 3 - 4 March, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Austin, TX |
+| [SmashingConf SF](https://smashingconf.com/sf-2020/) | 21 - 22 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
 | [Southern Dev](https://southerndev.co/) | 25 - 25 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Augusta, GA |
 | [React Finland](https://react-finland.fi/) | 3 - 4 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fi.svg" height="16" alt="FI" /> Finland, Helsinki, Finland |
 | [Render ATL](https://www.renderatl.com/) | 4 - 6 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |

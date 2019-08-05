@@ -78,5 +78,15 @@
     "month": "May",
     "submissionDeadline": "",
     "country": "FI"
+  },
+  {
+    "title": "SmashingConf SF",
+    "url": "https://smashingconf.com/sf-2020/",
+    "where": "San Francisco, CA",
+    "dateFrom": "04-21",
+    "dateTo": "04-22",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
