@@ -17,7 +17,7 @@
     "dateTo": "02-21",
     "month": "February",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "US"
   },
   {
     "title": "Node Atlanta",
@@ -27,7 +27,7 @@
     "dateTo": "02-21",
     "month": "February",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "US"
   },
   {
     "title": "Southern Dev",
@@ -37,7 +37,7 @@
     "dateTo": "04-25",
     "month": "April",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "US"
   },
   {
     "title": "Render ATL",
@@ -47,7 +47,7 @@
     "dateTo": "05-06",
     "month": "May",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "US"
   },
   {
     "title": "Halfstack",
@@ -57,7 +57,7 @@
     "dateTo": "01-17",
     "month": "January",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "US"
   },
   {
     "title": "VueConf US",
@@ -67,7 +67,7 @@
     "dateTo": "03-04",
     "month": "March",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "US"
   },
   {
     "title": "React Finland",
@@ -87,6 +87,6 @@
     "dateTo": "04-22",
     "month": "April",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "US"
   }
 ]
