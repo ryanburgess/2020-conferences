@@ -7,8 +7,8 @@ const cal = ical();
 const year = 2020;
 const items = [];
 const duplicates = [];
-let content = `# ${year} Web Development Conferences
-A list of ${year} web development conferences.
+let content = `# ${year} Engineering Conferences
+A list of ${year} conferences.
 A list of [${year - 1} conferences](https://github.com/ryanburgess/${year - 1}-conferences).
 
 _**You can also add all conferences directly into your calendar by importing the \`.ics\` file into Google Calendar etc.**_
