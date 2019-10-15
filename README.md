@@ -19,6 +19,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Southern Dev](https://southerndev.co/) | 25 - 25 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Augusta, GA |
 | [React Finland](https://react-finland.fi/) | 3 - 4 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fi.svg" height="16" alt="FI" /> Finland, Helsinki, Finland |
 | [Render ATL](https://www.renderatl.com/) | 4 - 6 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Atlanta, GA |
+| [Def Con 28](https://defcon.org/) | 6 - 9 August, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Las Vegas, NV |
 
 ## Contributing
 1. Fork it
