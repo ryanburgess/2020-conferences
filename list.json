@@ -208,5 +208,175 @@
   "month": "August",
   "submissionDeadline": "",
   "country": "US"
+  },
+  {
+    "title": "ng Conf",
+    "url": "https://www.ng-conf.org/",
+    "where": "Salt Lake City, UT",
+    "dateFrom": "04-01",
+    "dateTo": "04-03",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "HolyJS Piter",
+    "url": "https://holyjs-piter.ru/",
+    "where": "Saint Petersburg, Russia",
+    "dateFrom": "04-10",
+    "dateTo": "04-11",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "RU"
+  },
+  {
+    "title": "JS Kongress",
+    "url": "https://js-kongress.com/",
+    "where": "Munich, Germany",
+    "dateFrom": "04-15",
+    "dateTo": "04-16",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "DE"
+  },
+  {
+    "title": "App.js Conf",
+    "url": "https://js-kongress.com/",
+    "where": "Krakow, Poland",
+    "dateFrom": "04-23",
+    "dateTo": "04-24",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "PO"
+  },
+  {
+    "title": "JSHeroes",
+    "url": "https://jsheroes.io/",
+    "where": "Cluj, Romania",
+    "dateFrom": "04-23",
+    "dateTo": "04-23",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "RO"
+  },
+  {
+    "title": "Uphill Conf",
+    "url": "https://uphillconf.com/",
+    "where": "Bern, Switzerland",
+    "dateFrom": "04-23",
+    "dateTo": "04-24",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "CH"
+  },
+  {
+    "title": "HalfStack Israel",
+    "url": "https://halfstackconf.com/telaviv",
+    "where": "Tel Aviv, Israel",
+    "dateFrom": "05-11",
+    "dateTo": "05-11",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "IR"
+  },
+  {
+    "title": "ReactEurope",
+    "url": "https://www.react-europe.org/",
+    "where": "Paris, France",
+    "dateFrom": "05-14",
+    "dateTo": "05-15",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "FR"
+  },
+  {
+    "title": "You Gotta Love Frontend (YGLF)",
+    "url": "https://lithuania.yglfconf.com/",
+    "where": "Vilnius, Lithuania",
+    "dateFrom": "05-14",
+    "dateTo": "05-15",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "LT"
+  },
+  {
+    "title": "JSNation",
+    "url": "http://jsnation.com/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "06-03",
+    "dateTo": "06-05",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "NE"
+  },
+  {
+    "title": "SmashingConf",
+    "url": "https://smashingconf.com/austin-2020",
+    "where": "Austin, Texas",
+    "dateFrom": "06-09",
+    "dateTo": "06-10",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "ReactNext",
+    "url": "https://react-next.com/",
+    "where": "Tel Aviv, Israel",
+    "dateFrom": "06-09",
+    "dateTo": "06-10",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "IR"
+  },
+  {
+    "title": "React Day Norway",
+    "url": "https://reactnorway.com/",
+    "where": "Larvik, Norway",
+    "dateFrom": "06-09",
+    "dateTo": "06-10",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "NO"
+  },
+  {
+    "title": "JScamp Barcelona",
+    "url": "https://jscamp.tech/",
+    "where": "Barcelona, Spain",
+    "dateFrom": "07-16",
+    "dateTo": "07-17",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "ES"
+  },
+  {
+    "title": "SmashingConf",
+    "url": "https://smashingconf.com/freiburg-2020",
+    "where": "Freiburg, Germany",
+    "dateFrom": "09-07",
+    "dateTo": "09-08",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "ES"
+  },
+  {
+    "title": "React Day New York",
+    "url": "https://reactnewyork.com/",
+    "where": "Brooklyn, New York",
+    "dateFrom": "09-11",
+    "dateTo": "09-11",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Armada JS",
+    "url": "https://reactnewyork.com/",
+    "where": "Novi Sad, Serbia",
+    "dateFrom": "10-01",
+    "dateTo": "10-02",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "RS"
   }
 ]

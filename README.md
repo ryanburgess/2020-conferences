@@ -25,11 +25,27 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Node.TLV](https://www.nodetlv.com/) | 3 - 3 March, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/il.svg" height="16" alt="IL" /> Israel, Tel Aviv, Israel |
 | [Ember Conf](https://www.nodetlv.com/) | 16 - 18 March, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Portland, OR |
 | [CityJS](https://cityjsconf.org/) | 27 - 27 March, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/uk.svg" height="16" alt="UK" /> undefined, London, UK |
+| [ng Conf](https://www.ng-conf.org/) | 1 - 3 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Salt Lake City, UT |
+| [HolyJS Piter](https://holyjs-piter.ru/) | 10 - 11 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ru.svg" height="16" alt="RU" /> Russian Federation, Saint Petersburg, Russia |
+| [JS Kongress](https://js-kongress.com/) | 15 - 16 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich, Germany |
 | [SmashingConf SF](https://smashingconf.com/sf-2020/) | 21 - 22 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, San Francisco, CA |
+| [App.js Conf](https://js-kongress.com/) | 23 - 24 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/po.svg" height="16" alt="PO" /> undefined, Krakow, Poland |
+| [JSHeroes](https://jsheroes.io/) | 23 - 23 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ro.svg" height="16" alt="RO" /> Romania, Cluj, Romania |
+| [Uphill Conf](https://uphillconf.com/) | 23 - 24 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ch.svg" height="16" alt="CH" /> Switzerland, Bern, Switzerland |
 | [Southern Dev](https://southerndev.co/) | 25 - 25 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Augusta, GA |
 | [React Finland](https://react-finland.fi/) | 3 - 4 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fi.svg" height="16" alt="FI" /> Finland, Helsinki, Finland |
 | [Render ATL](https://www.renderatl.com/) | 4 - 6 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Atlanta, GA |
+| [HalfStack Israel](https://halfstackconf.com/telaviv) | 11 - 11 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ir.svg" height="16" alt="IR" /> Iran, Islamic Republic of, Tel Aviv, Israel |
+| [ReactEurope](https://www.react-europe.org/) | 14 - 15 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="FR" /> France, Paris, France |
+| [You Gotta Love Frontend (YGLF)](https://lithuania.yglfconf.com/) | 14 - 15 May, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/lt.svg" height="16" alt="LT" /> Lithuania, Vilnius, Lithuania |
+| [JSNation](http://jsnation.com/) | 3 - 5 June, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ne.svg" height="16" alt="NE" /> Niger, Amsterdam, Netherlands |
+| [SmashingConf](https://smashingconf.com/austin-2020) | 9 - 10 June, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Austin, Texas |
+| [ReactNext](https://react-next.com/) | 9 - 10 June, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ir.svg" height="16" alt="IR" /> Iran, Islamic Republic of, Tel Aviv, Israel |
+| [React Day Norway](https://reactnorway.com/) | 9 - 10 June, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/no.svg" height="16" alt="NO" /> Norway, Larvik, Norway |
+| [JScamp Barcelona](https://jscamp.tech/) | 16 - 17 July, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="ES" /> Spain, Barcelona, Spain |
 | [Def Con 28](https://defcon.org/) | 6 - 9 August, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Las Vegas, NV |
+| [React Day New York](https://reactnewyork.com/) | 11 - 11 September, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US" /> United States of America, Brooklyn, New York |
+| [Armada JS](https://reactnewyork.com/) | 1 - 2 October, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/rs.svg" height="16" alt="RS" /> Serbia, Novi Sad, Serbia |
 
 ## Contributing
 1. Fork it
