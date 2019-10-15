@@ -198,5 +198,15 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "UK"
+  },
+  {
+  "title": "Def Con 28",
+  "url": "https://defcon.org/",
+  "where": "Las Vegas, NV",
+  "dateFrom": "08-06",
+  "dateTo": "08-09",
+  "month": "August",
+  "submissionDeadline": "",
+  "country": "US"
   }
 ]
