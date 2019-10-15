@@ -88,5 +88,115 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "US"
+  },
+  {
+    "title": "Covalence",
+    "url": "http://www.covalenceconf.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "01-24",
+    "dateTo": "01-24",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "c't <webdev>",
+    "url": "https://ctwebdev.de/",
+    "where": "SKöln, Germany",
+    "dateFrom": "02-04",
+    "dateTo": "02-06",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "DE"
+  },
+  {
+    "title": "JSConf Hawai'i",
+    "url": "https://www.jsconfhi.com/",
+    "where": "Honolulu, HI",
+    "dateFrom": "02-05",
+    "dateTo": "02-07",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Oslo Elm Day",
+    "url": "https://osloelmday.no/",
+    "where": "Oslo, Norway",
+    "dateFrom": "02-16",
+    "dateTo": "02-16",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "NO"
+  },
+  {
+    "title": "Frontend Developer Love",
+    "url": "http://www.frontenddeveloperlove.com/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "02-19",
+    "dateTo": "02-21",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "NE"
+  },
+  {
+    "title": "Agent Conf",
+    "url": "https://www.agent.sh/",
+    "where": "Dornbirn & Lech, Austria",
+    "dateFrom": "02-23",
+    "dateTo": "02-26",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "AT"
+  },
+  {
+    "title": "ReactConf AU",
+    "url": "https://reactconfau.com/",
+    "where": "Sydney, Australia",
+    "dateFrom": "02-27",
+    "dateTo": "02-28",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "AU"
+  },
+  {
+    "title": "ng India",
+    "url": "https://www.ng-ind.com/",
+    "where": "Gurgaon, India",
+    "dateFrom": "02-29",
+    "dateTo": "02-29",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "IN"
+  },
+  {
+    "title": "Node.TLV",
+    "url": "https://www.nodetlv.com/",
+    "where": "Tel Aviv, Israel",
+    "dateFrom": "03-03",
+    "dateTo": "03-03",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "IL"
+  },
+  {
+    "title": "Ember Conf",
+    "url": "https://www.nodetlv.com/",
+    "where": "Portland, OR",
+    "dateFrom": "03-16",
+    "dateTo": "03-18",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "CityJS",
+    "url": "https://cityjsconf.org/",
+    "where": "London, UK",
+    "dateFrom": "03-27",
+    "dateTo": "03-27",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "UK"
   }
 ]
