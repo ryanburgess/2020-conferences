@@ -220,14 +220,14 @@
     "country": "GB"
   },
   {
-  "title": "Def Con 28",
-  "url": "https://defcon.org/",
-  "where": "Las Vegas, NV",
-  "dateFrom": "08-06",
-  "dateTo": "08-09",
-  "month": "August",
-  "submissionDeadline": "",
-  "country": "US"
+    "title": "Def Con 28",
+    "url": "https://defcon.org/",
+    "where": "Las Vegas, NV",
+    "dateFrom": "08-06",
+    "dateTo": "08-09",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "US"
   },
   {
     "title": "ng Conf",
@@ -398,5 +398,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "RS"
+  },
+  {
+    "title": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/",
+    "where": "London, UK",
+    "dateFrom": "04-20",
+    "dateTo": "04-22",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "GB"
   }
 ]
