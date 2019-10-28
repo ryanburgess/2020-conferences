@@ -70,6 +70,16 @@
     "country": "US"
   },
   {
+    "title": "#PerfMatters",
+    "url": "http://perfmattersconf.com/",
+    "where": "Redwood City, CA",
+    "dateFrom": "03-31",
+    "dateTo": "04-01",
+    "month": "April",
+    "submissionDeadline": "12-01",
+    "country": "US"
+  },
+  {
     "title": "VueConf US",
     "url": "http://vueconf.us/",
     "where": "Austin, TX",
@@ -287,7 +297,7 @@
     "dateTo": "05-11",
     "month": "May",
     "submissionDeadline": "",
-    "country": "IR"
+    "country": "IL"
   },
   {
     "title": "ReactEurope",
@@ -337,7 +347,7 @@
     "dateTo": "06-10",
     "month": "June",
     "submissionDeadline": "",
-    "country": "IR"
+    "country": "IL"
   },
   {
     "title": "React Day Norway",
