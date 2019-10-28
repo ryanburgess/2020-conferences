@@ -29,6 +29,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [HolyJS Piter](https://holyjs-piter.ru/) | 10 - 11 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ru.svg" height="16" alt="RU flag icon" /> Saint Petersburg, Russia |
 | [JS Kongress](https://js-kongress.com/) | 15 - 16 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE flag icon" /> Munich, Germany |
 | [SmashingConf SF](https://smashingconf.com/sf-2020/) | 21 - 22 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> San Francisco, CA |
+| [Refactr Tech](http://refactr.tech/) | 22 - 24 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Atlanta, GA |
 | [App.js Conf](https://js-kongress.com/) | 23 - 24 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/pl.svg" height="16" alt="PL flag icon" /> Krakow, Poland |
 | [JSHeroes](https://jsheroes.io/) | 23 - 23 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ro.svg" height="16" alt="RO flag icon" /> Cluj, Romania |
 | [Uphill Conf](https://uphillconf.com/) | 23 - 24 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ch.svg" height="16" alt="CH flag icon" /> Bern, Switzerland |
