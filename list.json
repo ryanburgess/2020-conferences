@@ -30,6 +30,16 @@
     "country": "US"
   },
   {
+    "title": "Refactr Tech",
+    "url": "http://refactr.tech/",
+    "where": "Atlanta, GA",
+    "dateFrom": "04-22",
+    "dateTo": "04-24",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
     "title": "Southern Dev",
     "url": "https://southerndev.co/",
     "where": "Augusta, GA",
