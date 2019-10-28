@@ -70,6 +70,16 @@
     "country": "US"
   },
   {
+    "title": "#PerfMatters",
+    "url": "http://perfmattersconf.com/",
+    "where": "Redwood City, CA",
+    "dateFrom": "03-31",
+    "dateTo": "04-01",
+    "month": "April",
+    "submissionDeadline": "12-01",
+    "country": "US"
+  },
+  {
     "title": "VueConf US",
     "url": "http://vueconf.us/",
     "where": "Austin, TX",
