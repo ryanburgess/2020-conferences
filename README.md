@@ -25,6 +25,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Node.TLV](https://www.nodetlv.com/) | 3 - 3 March, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/il.svg" height="16" alt="IL flag icon" /> Tel Aviv, Israel |
 | [Ember Conf](https://www.nodetlv.com/) | 16 - 18 March, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Portland, OR |
 | [CityJS](https://cityjsconf.org/) | 27 - 27 March, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB flag icon" /> London, UK |
+| [#PerfMatters](http://perfmattersconf.com/) | 31 March - 1 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Redwood City, CA |
 | [ng Conf](https://www.ng-conf.org/) | 1 - 3 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Salt Lake City, UT |
 | [HolyJS Piter](https://holyjs-piter.ru/) | 10 - 11 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ru.svg" height="16" alt="RU flag icon" /> Saint Petersburg, Russia |
 | [JS Kongress](https://js-kongress.com/) | 15 - 16 April, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE flag icon" /> Munich, Germany |
