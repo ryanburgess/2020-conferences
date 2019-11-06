@@ -12,7 +12,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 |------------|------|-------|
 | [Halfstack](https://halfstackconf.com/phoenix/) | 17 - 17 January, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Phoenix, AZ |
 | [Covalence](http://www.covalenceconf.com/) | 24 - 24 January, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> San Francisco, CA |
-| [c't <webdev>](https://ctwebdev.de/) | 4 - 6 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE flag icon" /> SKöln, Germany |
+| [c't <webdev>](https://ctwebdev.de/) | 4 - 6 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE flag icon" /> Cologne, Germany |
 | [JSConf Hawai'i](https://www.jsconfhi.com/) | 5 - 7 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Honolulu, HI |
 | [Oslo Elm Day](https://osloelmday.no/) | 16 - 16 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/no.svg" height="16" alt="NO flag icon" /> Oslo, Norway |
 | [Ng Atlanta](https://ng-atl.org/) | 17 - 21 February, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Atlanta, GA |
