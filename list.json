@@ -408,5 +408,135 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "GB"
+  },
+  {
+    "title": "Devopsdays Guadalajara",
+    "url": "https://devopsdays.org/events/2020-guadalajara/welcome/",
+    "where": "ITESO, Guadalajara",
+    "dateFrom": "02-20",
+    "dateTo": "02-21",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "MX"
+  },
+  {
+    "title": "Devopsdays Madrid",
+    "url": "https://devopsdays.org/events/2020-madrid/welcome/",
+    "where": "Monteprincipe, Madrid",
+    "dateFrom": "02-21",
+    "dateTo": "02-21",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "ES"
+  },
+  {
+    "title": "Devopsdays Charlotte",
+    "url": "https://devopsdays.org/events/2020-charlotte/welcome/",
+    "where": "Charlotte, SC",
+    "dateFrom": "02-27",
+    "dateTo": "02-28",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2020-los-angeles/welcome/",
+    "where": "Los Angeles, CA",
+    "dateFrom": "03-06",
+    "dateTo": "03-06",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Houston",
+    "url": "https://devopsdays.org/events/2020-houston/welcome/",
+    "where": "Houston, TX",
+    "dateFrom": "04-14",
+    "dateTo": "04-15",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Seattle",
+    "url": "https://devopsdays.org/events/2020-seattle/welcome/",
+    "where": "Seattle, WA",
+    "dateFrom": "04-14",
+    "dateTo": "04-15",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Atlanta",
+    "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
+    "where": "Atlanta, GA",
+    "dateFrom": "04-21",
+    "dateTo": "04-22",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Baltimore",
+    "url": "https://devopsdays.org/events/2020-baltimore/welcome/",
+    "where": "Baltimore, MD",
+    "dateFrom": "04-21",
+    "dateTo": "04-22",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Denver",
+    "url": "https://devopsdays.org/events/2020-denver/welcome/",
+    "where": "Denver, CO",
+    "dateFrom": "04-26",
+    "dateTo": "04-28",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Austin",
+    "url": "https://devopsdays.org/events/2020-austin/welcome/",
+    "where": "Austin, TX",
+    "dateFrom": "05-04",
+    "dateTo": "05-05",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Des Moins",
+    "url": "https://devopsdays.org/events/2020-des-moines/welcome/",
+    "where": "Des Moines, IA",
+    "dateFrom": "05-14",
+    "dateTo": "05-15",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Boise",
+    "url": "https://devopsdays.org/events/2020-boise/welcome/",
+    "where": "Boise, ID",
+    "dateFrom": "05-15",
+    "dateTo": "05-15",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Devopsdays Salt Lake City",
+    "url": "https://devopsdays.org/events/2020-salt-lake-city/welcome/",
+    "where": "Salt Lake City, UT",
+    "dateFrom": "06-02",
+    "dateTo": "06-03",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "US"
   }
 ]
