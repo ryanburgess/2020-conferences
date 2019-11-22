@@ -510,7 +510,7 @@
     "country": "US"
   },
   {
-    "title": "Devopsdays Des Moins",
+    "title": "Devopsdays Des Moines",
     "url": "https://devopsdays.org/events/2020-des-moines/welcome/",
     "where": "Des Moines, IA",
     "dateFrom": "05-14",
@@ -536,6 +536,16 @@
     "dateFrom": "06-02",
     "dateTo": "06-03",
     "month": "June",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
+    "title": "Reactathon",
+    "url": "https://www.reactathon.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "03-30",
+    "dateTo": "03-31",
+    "month": "March",
     "submissionDeadline": "",
     "country": "US"
   }
