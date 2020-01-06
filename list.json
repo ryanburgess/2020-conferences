@@ -250,6 +250,26 @@
     "country": "US"
   },
   {
+    "title": "Webconf.asia",
+    "url": "https://webconf.asia/",
+    "where": "Hong Kong, HK",
+    "dateFrom": "08-28",
+    "dateTo": "08-29",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "HK"
+  },
+  {
+    "title": "SmashingConf Freiburg",
+    "url": "https://www.smashingconf.com/freiburg-2020",
+    "where": "Freiburg, DE",
+    "dateFrom": "09-07",
+    "dateTo": "09-08",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "DE"
+  },
+  {
     "title": "ng Conf",
     "url": "https://www.ng-conf.org/",
     "where": "Salt Lake City, UT",
@@ -350,7 +370,7 @@
     "country": "NE"
   },
   {
-    "title": "SmashingConf",
+    "title": "SmashingConf Austin",
     "url": "https://smashingconf.com/austin-2020",
     "where": "Austin, Texas",
     "dateFrom": "06-09",
@@ -390,14 +410,24 @@
     "country": "ES"
   },
   {
-    "title": "SmashingConf",
+    "title": "SmashingConf Freiburg",
     "url": "https://smashingconf.com/freiburg-2020",
     "where": "Freiburg, Germany",
     "dateFrom": "09-07",
     "dateTo": "09-08",
     "month": "September",
     "submissionDeadline": "",
-    "country": "ES"
+    "country": "DE"
+  },
+  {
+    "title": "SmashingConf New York",
+    "url": "https://smashingconf.com/ny-2020",
+    "where": "New York, NY",
+    "dateFrom": "10-20",
+    "dateTo": "10-21",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "US"
   },
   {
     "title": "React Day New York",
