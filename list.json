@@ -10,6 +10,16 @@
     "country": "IO"
   },
   {
+    "title": "php[tek] 2020",
+    "url": "https://tek.phparch.com/",
+    "where": "Nashville, TN, USA",
+    "dateFrom": "05-18",
+    "dateTo": "05-21",
+    "month": "May",
+    "submissionDeadline": "01-04",
+    "country": "US"
+  },
+  {
     "title": "ReactConf AU",
     "url": "https://reactconfau.com/",
     "where": "Australia",
