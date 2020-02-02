@@ -399,8 +399,18 @@
     "submissionDeadline": "",
     "country": "NO"
   },
+   {
+    "title": "CSSCAMP 2020",
+    "url": "https://csscamp.tech/",
+    "where": "Barcelona, Spain",
+    "dateFrom": "07-15",
+    "dateTo": "07-15",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "ES"
+  },
   {
-    "title": "JScamp Barcelona",
+    "title": "JSCAMP 2020",
     "url": "https://jscamp.tech/",
     "where": "Barcelona, Spain",
     "dateFrom": "07-16",
