@@ -618,5 +618,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "PL"
+  },
+  {
+    "title": "Beer City Code",
+    "url": "https://beercitycode.com/",
+    "where": "Grand Rapids, MI",
+    "dateFrom": "07-24",
+    "dateTo": "07-25",
+    "month": "July",
+    "submissionDeadline": "March 31, 2020",
+    "country": "US"
   }
 ]

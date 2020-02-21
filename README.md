@@ -63,6 +63,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [React Day Norway](https://reactnorway.com/) | 9 - 10 June, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/no.svg" height="16" alt="NO flag icon" /> Larvik, Norway |
 | [CSSCAMP 2020](https://csscamp.tech/) | 15 - 15 July, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="ES flag icon" /> Barcelona, Spain |
 | [JSCAMP 2020](https://jscamp.tech/) | 16 - 17 July, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="ES flag icon" /> Barcelona, Spain |
+| [Beer City Code](https://beercitycode.com/) | 24 - 25 July, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Grand Rapids, MI |
 | [Def Con 28](https://defcon.org/) | 6 - 9 August, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Las Vegas, NV |
 | [Webconf.asia](https://webconf.asia/) | 28 - 29 August, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/hk.svg" height="16" alt="HK flag icon" /> Hong Kong, HK |
 | [SmashingConf Freiburg](https://www.smashingconf.com/freiburg-2020) | 7 - 8 September, 2020 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE flag icon" /> Freiburg, DE |
