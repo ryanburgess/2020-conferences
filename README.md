@@ -2,6 +2,8 @@
 A list of 2020 conferences.
 A list of [2019 conferences](https://github.com/ryanburgess/2019-conferences).
 
+[2020 Conferences cancelled due to Covid-19](https://docs.google.com/spreadsheets/d/1pTxPrJXlUvWrIubfIuTHJJJW1eOyTXaq4M3ojZF9PRk/edit#gid=0).
+
 _**You can also add all conferences directly into your calendar by importing the `.ics` file into Google Calendar etc.**_
 
 _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-conferences/master/2019-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
