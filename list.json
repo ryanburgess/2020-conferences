@@ -399,7 +399,7 @@
     "submissionDeadline": "",
     "country": "NO"
   },
-   {
+  {
     "title": "CSSCAMP 2020",
     "url": "https://csscamp.tech/",
     "where": "Barcelona, Spain",
@@ -628,5 +628,15 @@
     "month": "July",
     "submissionDeadline": "March 31, 2020",
     "country": "US"
+  },
+  {
+    "title": "Container Camp Virtual",
+    "url": "https://2020.container.camp/web",
+    "where": "Virtual",
+    "dateFrom": "05-22",
+    "dateTo": "05-22",
+    "month": "May",
+    "submissionDeadline": "April 20, 2020",
+    "country": "AU"
   }
 ]
