@@ -1,5 +1,25 @@
 [
   {
+    "title": "JamStack Conf",
+    "url": "https://jamstackconf.com/",
+    "where": "Virtual",
+    "dateFrom": "05-27",
+    "dateTo": "05-28",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "IO"
+  },
+  {
+    "title": "JamStack Conf",
+    "url": "https://jamstackconf.com/",
+    "where": "San Francisco",
+    "dateFrom": "10-06",
+    "dateTo": "10-07",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "US"
+  },
+  {
     "title": "De{Code}",
     "url": "https://attend.wpengine.com/decode-2020/",
     "where": "Virtual",
